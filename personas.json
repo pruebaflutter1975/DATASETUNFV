@@ -1,0 +1,311 @@
+[
+    {
+        "codigo": 1,
+        "nombre": "Pedro",
+        "apellido": "López",
+        "sexo": "Masculino",
+        "estado_civil": "Soltero"
+    },
+    {
+        "codigo": 2,
+        "nombre": "María",
+        "apellido": "Cruz",
+        "sexo": "Femenino",
+        "estado_civil": "Casado"
+    },
+    {
+        "codigo": 3,
+        "nombre": "Carlos",
+        "apellido": "Gómez",
+        "sexo": "Masculino",
+        "estado_civil": "Viudo"
+    },
+    {
+        "codigo": 4,
+        "nombre": "Luisa",
+        "apellido": "Ramírez",
+        "sexo": "Femenino",
+        "estado_civil": "Divorciado"
+    },
+    {
+        "codigo": 5,
+        "nombre": "Fernando",
+        "apellido": "Sánchez",
+        "sexo": "Masculino",
+        "estado_civil": "Casado"
+    },
+    {
+        "codigo": 6,
+        "nombre": "José",
+        "apellido": "Reyes",
+        "sexo": "Masculino",
+        "estado_civil": "Soltero"
+    },
+    {
+        "codigo": 7,
+        "nombre": "Marta",
+        "apellido": "Pérez",
+        "sexo": "Femenino",
+        "estado_civil": "Casado"
+    },
+    {
+        "codigo": 8,
+        "nombre": "Ana",
+        "apellido": "Martínez",
+        "sexo": "Femenino",
+        "estado_civil": "Viudo"
+    },
+    {
+        "codigo": 9,
+        "nombre": "Laura",
+        "apellido": "García",
+        "sexo": "Femenino",
+        "estado_civil": "Divorciado"
+    },
+    {
+        "codigo": 10,
+        "nombre": "Juan",
+        "apellido": "Ortiz",
+        "sexo": "Masculino",
+        "estado_civil": "Soltero"
+    },
+    {
+        "codigo": 11,
+        "nombre": "Pedro",
+        "apellido": "García",
+        "sexo": "Masculino",
+        "estado_civil": "Casado"
+    },
+    {
+        "codigo": 12,
+        "nombre": "Ana",
+        "apellido": "Sánchez",
+        "sexo": "Femenino",
+        "estado_civil": "Viudo"
+    },
+    {
+        "codigo": 13,
+        "nombre": "Carlos",
+        "apellido": "López",
+        "sexo": "Masculino",
+        "estado_civil": "Soltero"
+    },
+    {
+        "codigo": 14,
+        "nombre": "Luisa",
+        "apellido": "Reyes",
+        "sexo": "Femenino",
+        "estado_civil": "Divorciado"
+    },
+    {
+        "codigo": 15,
+        "nombre": "Fernando",
+        "apellido": "Pérez",
+        "sexo": "Masculino",
+        "estado_civil": "Casado"
+    },
+    {
+        "codigo": 16,
+        "nombre": "María",
+        "apellido": "Gómez",
+        "sexo": "Femenino",
+        "estado_civil": "Soltero"
+    },
+    {
+        "codigo": 17,
+        "nombre": "Laura",
+        "apellido": "Ortiz",
+        "sexo": "Femenino",
+        "estado_civil": "Viudo"
+    },
+    {
+        "codigo": 18,
+        "nombre": "Pedro",
+        "apellido": "Martínez",
+        "sexo": "Masculino",
+        "estado_civil": "Casado"
+    },
+    {
+        "codigo": 19,
+        "nombre": "Carlos",
+        "apellido": "Ramírez",
+        "sexo": "Masculino",
+        "estado_civil": "Divorciado"
+    },
+    {
+        "codigo": 20,
+        "nombre": "José",
+        "apellido": "Cruz",
+        "sexo": "Masculino",
+        "estado_civil": "Viudo"
+    },
+    {
+        "codigo": 21,
+        "nombre": "Luisa",
+        "apellido": "López",
+        "sexo": "Femenino",
+        "estado_civil": "Casado"
+    },
+    {
+        "codigo": 22,
+        "nombre": "Ana",
+        "apellido": "García",
+        "sexo": "Femenino",
+        "estado_civil": "Soltero"
+    },
+    {
+        "codigo": 23,
+        "nombre": "Carlos",
+        "apellido": "Sánchez",
+        "sexo": "Masculino",
+        "estado_civil": "Viudo"
+    },
+    {
+        "codigo": 24,
+        "nombre": "Fernando",
+        "apellido": "Reyes",
+        "sexo": "Masculino",
+        "estado_civil": "Casado"
+    },
+    {
+        "codigo": 25,
+        "nombre": "José",
+        "apellido": "Ortiz",
+        "sexo": "Masculino",
+        "estado_civil": "Soltero"
+    },
+    {
+        "codigo": 26,
+        "nombre": "Marta",
+        "apellido": "Cruz",
+        "sexo": "Femenino",
+        "estado_civil": "Viudo"
+    },
+    {
+        "codigo": 27,
+        "nombre": "Pedro",
+        "apellido": "Pérez",
+        "sexo": "Masculino",
+        "estado_civil": "Divorciado"
+    },
+    {
+        "codigo": 28,
+        "nombre": "Ana",
+        "apellido": "López",
+        "sexo": "Femenino",
+        "estado_civil": "Casado"
+    },
+    {
+        "codigo": 29,
+        "nombre": "Luisa",
+        "apellido": "Ramírez",
+        "sexo": "Femenino",
+        "estado_civil": "Soltero"
+    },
+    {
+        "codigo": 30,
+        "nombre": "Juan",
+        "apellido": "García",
+        "sexo": "Masculino",
+        "estado_civil": "Divorciado"
+    },
+    {
+        "codigo": 31,
+        "nombre": "Carlos",
+        "apellido": "Martínez",
+        "sexo": "Masculino",
+        "estado_civil": "Casado"
+    },
+    {
+        "codigo": 32,
+        "nombre": "Fernando",
+        "apellido": "Reyes",
+        "sexo": "Masculino",
+        "estado_civil": "Soltero"
+    },
+    {
+        "codigo": 33,
+        "nombre": "María",
+        "apellido": "Sánchez",
+        "sexo": "Femenino",
+        "estado_civil": "Viudo"
+    },
+    {
+        "codigo": 34,
+        "nombre": "Laura",
+        "apellido": "Cruz",
+        "sexo": "Femenino",
+        "estado_civil": "Casado"
+    },
+    {
+        "codigo": 35,
+        "nombre": "Pedro",
+        "apellido": "Ortiz",
+        "sexo": "Masculino",
+        "estado_civil": "Divorciado"
+    },
+    {
+        "codigo": 36,
+        "nombre": "Ana",
+        "apellido": "Pérez",
+        "sexo": "Femenino",
+        "estado_civil": "Soltero"
+    },
+    {
+        "codigo": 37,
+        "nombre": "José",
+        "apellido": "López",
+        "sexo": "Masculino",
+        "estado_civil": "Viudo"
+    },
+    {
+        "codigo": 38,
+        "nombre": "Marta",
+        "apellido": "Reyes",
+        "sexo": "Femenino",
+        "estado_civil": "Divorciado"
+    },
+    {
+        "codigo": 39,
+        "nombre": "Luisa",
+        "apellido": "Gómez",
+        "sexo": "Femenino",
+        "estado_civil": "Casado"
+    },
+    {
+        "codigo": 40,
+        "nombre": "Fernando",
+        "apellido": "Ramírez",
+        "sexo": "Masculino",
+        "estado_civil": "Soltero"
+    },
+    {
+        "codigo": 41,
+        "nombre": "Carlos",
+        "apellido": "Ortiz",
+        "sexo": "Masculino",
+        "estado_civil": "Divorciado"
+    },
+    {
+        "codigo": 42,
+        "nombre": "Laura",
+        "apellido": "Martínez",
+        "sexo": "Femenino",
+        "estado_civil": "Viudo"
+    },
+    {
+        "codigo": 43,
+        "nombre": "Pedro",
+        "apellido": "Cruz",
+        "sexo": "Masculino",
+        "estado_civil": "Casado"
+    },
+    {
+        "codigo": 44,
+        "nombre": "Juan",
+        "apellido": "Gómez",
+        "sexo": "Masculino",
+        "estado_civil": "Soltero"
+    }
+]
+    
